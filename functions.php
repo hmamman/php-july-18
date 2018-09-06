@@ -5,6 +5,11 @@ function multiplier(float $num1, float $num2)
     return $num1*$num2;
 }
 
+function adder(float $num1, float $num2)
+{
+    return $num1 + $num2;
+}
+
 function getGrade(float $score) 
 {
     $grade = '';
@@ -42,8 +47,8 @@ for ($i = 0; $i<=20; $i++) {
 
 /*echo '<pre>';
 print_r($scores);
-echo '</pre>';*/
+// echo '</pre>';*/
 
-foreach ($scores as $score) {
+/*foreach ($scores as $score) {
     echo getGrade($score) . '<br>';
-}
+}*/
