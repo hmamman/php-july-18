@@ -7,7 +7,7 @@ require "functions2.php"
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Document</title>$_POST['first_number']$_POST['first_number']$_POST['first_number']
 </head>
 <body>
 <?php
